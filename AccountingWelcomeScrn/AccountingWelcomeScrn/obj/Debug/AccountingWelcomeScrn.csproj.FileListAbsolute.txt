@@ -1,0 +1,7 @@
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\obj\Debug\AccountingWelcomeScrn.csprojAssemblyReference.cache
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\obj\Debug\AccountingWelcomeScrn.csproj.CoreCompileInputs.cache
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\bin\Debug\AccountingWelcomeScrn.exe.config
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\bin\Debug\AccountingWelcomeScrn.exe
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\bin\Debug\AccountingWelcomeScrn.pdb
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\obj\Debug\AccountingWelcomeScrn.exe
+C:\Users\Senetrix Jelly Beans\source\repos\AccountingWelcomeScrn\AccountingWelcomeScrn\obj\Debug\AccountingWelcomeScrn.pdb

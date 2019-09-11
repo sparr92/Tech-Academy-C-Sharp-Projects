@@ -10,8 +10,16 @@ namespace ConsoleAppPg124
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
-            employee.SayName();
+            //Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
+            //employee.SayName();
+            //Console.ReadLine();
+
+            IQuittable NewEmployee = new Employee();
+
+            ((Employee)NewEmployee).firstName = "Sample" ;
+            ((Employee)NewEmployee).lastName = "Student";
+
+            NewEmployee.Quit();
             Console.ReadLine();
         }
     }
